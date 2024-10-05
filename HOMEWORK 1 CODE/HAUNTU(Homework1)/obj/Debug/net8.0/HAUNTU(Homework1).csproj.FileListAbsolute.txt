@@ -1,4 +1,0 @@
-C:\Users\Lenovo X1\OneDrive\Desktop\C# codes\HAUNTU(Homework1)\HAUNTU(Homework1)\obj\Debug\net8.0\HAUNTU(Homework1).GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo X1\OneDrive\Desktop\C# codes\HAUNTU(Homework1)\HAUNTU(Homework1)\obj\Debug\net8.0\HAUNTU(Homework1).AssemblyInfoInputs.cache
-C:\Users\Lenovo X1\OneDrive\Desktop\C# codes\HAUNTU(Homework1)\HAUNTU(Homework1)\obj\Debug\net8.0\HAUNTU(Homework1).AssemblyInfo.cs
-C:\Users\Lenovo X1\OneDrive\Desktop\C# codes\HAUNTU(Homework1)\HAUNTU(Homework1)\obj\Debug\net8.0\HAUNTU(Homework1).csproj.CoreCompileInputs.cache
